@@ -12,7 +12,7 @@
 	<artifactId>Rentacar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Rentacar</name>
-	<description>Proyecto para administrar prestamo de carros</description>
+	<description>Proyecto para administrar prestamo de carros :D</description>
 
 	<properties>
 		<java.version>1.8</java.version>
